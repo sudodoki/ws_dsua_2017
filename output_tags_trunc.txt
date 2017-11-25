@@ -1,0 +1,300 @@
+_RB _DT _NAME _NN .
+_PRP$ _NN _VBD _RB _RB .
+_DT _NN _VBD _RB .
+_CC _RB , _PRP _VBD .
+_PRP _VBD _TO _VB .
+_EX _MD _VB _DT _NN .
+_DT _NN _IN _NAME _VBD .
+_PRP _VBZ _JJ _TO _VB _IN _PRP .
+_PRP _VBP _RB _VB _TO _VB _IN _DT _NN .
+_NN , _PRP _VBD .
+_PRP _VBD _RP _PRP$ _NN _CC _VBD _IN _PRP .
+_PRP _VBD _IN _NAME _NAME _NAME _DT _NN .
+_DT _JJ , _JJ _NN _VBD _IN _DT _NN .
+_NAME _NAME _VBD _DT _NN .
+_NN _IN _PRP _MD .
+_PRP _VBP _PRP _DT .
+_PRP _MD _VB _TO _VB _RB _RB .
+_RB , _PRP$ _NN .
+_WDT _DT _NN _IN _NN .
+_PRP _VBD _IN _PRP _RB .
+_PRP _MD _VB _DT _JJ _NN .
+_DT _NN _MD _VB _VBN _IN _DT _NN .
+_PRP _VBD _DT _NN _IN _NN _NN _IN _PRP .
+_NN _VBN _IN _DT _NNS .
+_NNP _VBD _IN _NAME .
+_WP _IN _DT _NN ?
+_PRP _VBD _RB _CC _VBD _IN _PRP .
+_PRP _VBD _PRP$ _NN .
+_PRP _MD _VB _PRP _NAME _NAME .
+_PRP _VBZ _DT _NN _NN .
+_NAME _POS _NN _VBD .
+_RB _PRP _VBD _DT _VBN _NN .
+_DT _NAME _NNS _VBD _IN _DT _NN .
+_RB _DT _NN _VBD _VBG .
+_CC _PRP _VBD _RB _VB _PRP .
+_NAME _NAME _VBD _IN _DT _NN .
+_DT _NN _IN _NN .
+_NAME _VBD _IN _PRP .
+_NNP _VB _DT _NN .
+_IN _NAME _NAME _NAME ?
+_EX _VBD _DT _JJ _NN .
+_PRP _VBD _IN _DT _NN _NN .
+_PRP _VBD _NN _IN _PRP .
+_PRP _VBD _PRP$ _NN _IN _NN .
+_PRP _VBD _RB _VBN _NNS .
+_RB _PRP _VBD _PRP$ _NN _IN _DT _NN _NN .
+_RB _PRP _VBP _PRP .
+_PRP _VBD _JJ _CC _JJ .
+_NAME _VBD , _RB _VBG _DT _NN .
+_PRP _VBP , _RB .
+_DT _VBP _NN _NNS .
+_RB _PRP _VBD _RB _CC _VBD .
+_DT _NN _NN _VBN .
+_DT _NN _VBD _CC _VBD .
+_PRP _VBD _VBN _RB _IN _NAME .
+_DT _NN _VBD _DT _NN _RB .
+_DT _NN _VBD _RB .
+_RB _PRP _VBD _PRP .
+_NAME _VBD _DT _NN .
+_PRP _VBD _RB _VB _IN _NN .
+_NAME _VBD _VBG _IN _NAME .
+_CC _RB _VBD _PRP$ _NN .
+_PRP _VBZ _PRP$ _NN _NAME .
+_PRP$ _NN _VBD _RB _RB _JJ .
+_PRP _VBD _IN _IN _DT _NN _IN _NN .
+_PRP _VBP _RB _JJ , _NN .
+_DT _NNS _VBP _JJ .
+_NNP _RB _VBD _RB _IN _DT _NN .
+_DT _JJ _NN _VBD .
+_MD _PRP _VB _DT _JJ ?
+_DT _NN _VBD _RB _VB _RB .
+_RB , _NAME _VBD .
+_PRP _MD _RB _VB _PRP .
+_NAME _VBD _VBG _RB .
+_DT _JJ _NN _VBN _NN .
+_NAME _VBD _PRP$ _NN .
+_NAME _VBD _DT _NN _RB _JJ .
+_EX _VBD _JJ _NNS _IN _DT _NN .
+_NNP _VBD _IN _PRP _VBD .
+_PRP _VBD _JJR _IN _NN .
+_DT _RB _JJ _NAME .
+_VB _IN _NAME _RB .
+_DT _NN _VBZ _RP .
+_NAME _VBD _RP _DT _JJ _NN .
+_NAME _VBD _IN _DT _NN _IN _NN _CC _NN .
+_DT _NN _NN _IN _NAME _NAME _VBZ _RB _JJ !
+_PRP _VBD _DT _NNS _IN _DT _NN .
+_NAME _VBD _IN _PRP$ _NN .
+_NAME _VBD _JJ _IN _DT _NN .
+_DT _NN _VBZ _RB _JJ _IN _JJ _NNS .
+_DT _NN _IN _DT _NN _VBD _RB _JJ .
+_PRP _VBD _JJ _TO _VB _DT _NN .
+_PRP _MD _RB _VB _VBN .
+_DT _NNS _MD _RB _VB _RB _RB .
+_PRP _VB _VBN _PRP$ _NN .
+_PRP _VBD _DT _NN _IN _DT _NN _IN _NAME .
+_RB _DT _VBZ _DT _JJ _NN .
+_DT _NNS _VBD _JJ _CC _JJ .
+_PRP _RB _VBD _PRP$ _NN .
+_PRP _VBD _TO _VB _JJ .
+_DT _NN _VBD _JJ .
+_DT _NN _VBZ _NN .
+_NN _VBZ _IN _PRP .
+_PRP _VBD _PRP$ _NN .
+_PRP _VBD _IN _DT _NN .
+_DT _NN _VBD _RB _TO _VB .
+_PRP _VBD _PRP$ _NN _IN _NAME .
+_MD _PRP _VB _PRP ?
+_NN _VBD _JJ _IN _PRP .
+_PRP _VBD _PRP _IN _PRP _VBD .
+_PRP _VBD , _CC _PRP _VBD _VBN .
+_PRP _VBP _VBG _PRP .
+_PRP _VBD _IN _DT _NN _NN .
+_PRP _VBD _TO _VB _IN _DT _NN .
+_NNP _NN _VBD _IN _PRP .
+_PRP _VBD _RB _JJ _TO _VB _RB .
+_NNP _NAME _VBD _VBN _IN _DT _NN .
+_WP _VBD _DT _NN ?
+_CC _PRP _VBD _DT _NN _TO _VB _PRP .
+_PRP _VBD _IN _DT _NN .
+_DT _NN _VBD _VBN _IN _DT _JJ _NN .
+_PRP _VBD _PRP _MD _VB _PRP$ _NN .
+_PRP _VBP _DT _JJ _NN _IN _DT _JJ _NN .
+_CC _DT _NN _VBD _PRP .
+_PRP _VBD _DT _NN _NNS _IN _DT _NN .
+_PRP _VBD _IN _PRP , _RB _JJ .
+_NNS _MD _VB _VBN .
+_PRP _MD _VB _NAME , _PRP _VBD .
+_NAME _VBD _VBN _PRP .
+_RB _DT _NN , _NAME _VBD .
+_DT _NN _VBD _VBN .
+_NAME _VBD _IN _DT _NN _IN _NAME .
+_NNS _VBD _DT _NN _NN .
+_NAME _VBD _RB _VB _WRB _TO _VB .
+_PRP _VBD _RB _VB _TO _VB _PRP .
+_PRP _VBD _RB _JJ .
+_PRP _VBD _TO _VB _DT _NAME _NN .
+_PRP _MD _VB _RB .
+_NN _VBD _IN _DT _VBG _NN .
+_PRP _VBD _IN _DT _NN _RB .
+_PRP _VBD _PRP$ _NN .
+_DT _NN _NN _VBD .
+_NNP _VBD _NAME _IN _DT _NN .
+_DT _VBD _PRP$ _NN .
+_PRP _VBZ _DT _NN .
+_PRP _VBD _PRP$ _NN _CC _VBD _RB .
+_PRP _VBD _IN _DT _JJ _NNS _IN _DT _NN .
+_NAME _VBD _VBN _VBG .
+_RB _JJ _IN _NN .
+_NAME _VBD _CC _VBD _PRP$ _NNS .
+_PRP _VBP _DT _NN _TO _VB .
+_PRP _VBD _PRP$ _NN .
+_WP _VBD _PRP _VBG _IN ?
+_PRP _VBD _PRP$ _NN .
+_RB _TO _VB _JJ .
+_VBG _IN _PRP$ _NN .
+_NNP _VBD _DT _NN _IN _PRP$ _NN .
+_NNP _VBD _IN _PRP .
+_DT _NAME _NN _VBD _RB _VBN .
+_PRP _VBD _PRP , _PRP _VBD .
+_NN _PRP _VBD _PRP .
+_RB _DT _NN _VBD _RP .
+_PRP _VBD _IN _PRP .
+_PRP _VBD _TO _VB _PRP _RB .
+_NNP _VBD _RB _CC _VBD _IN _DT _NN .
+_NNP _VBD , _VBG _DT _NN .
+_PRP _VBD _RB _RB _IN _DT _NN .
+_CC _NAME _VBD _RB _VB _PRP$ _NN .
+_PRP _VB _VBN _RB _JJ .
+_DT _VBD _JJ _NN .
+_PRP _VBD _RB _CC _VBD _PRP$ _NN .
+_NAME _VBD _DT _NN _IN _DT .
+_DT _NN _VBZ _JJ _NNS .
+_RB _PRP _VBD _PRP$ _NN .
+_IN _NN , _PRP _MD _VB .
+_NAME _VBD _DT _NN _IN _PRP$ _NN .
+_PRP _VBD _PRP _RB _CC _VBD .
+_PRP _VBD _IN _DT _JJ _NN .
+_PRP$ _NNS _VBD _IN _DT _JJ _NN .
+_NNP _VBD _IN _DT _NN _NN .
+_NN _VBD _IN _DT _NN .
+_PRP _VBD _DT _VBG .
+_PRP _VBD _VBG _RB .
+_CC _RB _WP _MD _PRP _VB ?
+_PRP _MD _VB _IN _NAME .
+_PRP _VB _VBN _DT _NN _RB .
+_RB _PRP _VBD _PRP$ _NN _IN _NAME .
+_DT _MD _RB _VB _JJ .
+_VBP _PRP _IN _DT _NN .
+_PRP _VBD _DT _NN _IN _RB .
+_PRP _VBD _DT _JJ _NN _IN _PRP .
+_DT _NN _VBD _RP .
+_WP _VBZ _PRP$ _NN _IN _PRP ?
+_NAME _VBD _IN _DT _NN .
+_NAME _VBD _IN _DT _JJ _NN _IN _NN .
+_RB _DT _NN _VBN .
+_PRP _VBD _PRP _RP _IN _DT _NN _NN .
+_DT _NN _VBD _VBN .
+_PRP _VBP _DT _NN _NN .
+_NAME _VBD , _PRP$ _NN _JJ .
+_PRP _VBP _RB _TO _VB .
+_WDT _NN _IN _DT _NN ?
+_NAME _NAME _VBZ _NN .
+_RB _RB _PRP _VBD _RB _JJ .
+_PRP _VBD _DT _NN _TO _VB .
+_PRP$ _NN _VBD _JJ , _JJ .
+_DT _NN _VBD _NN .
+_NNP _VBD _IN _DT _NN .
+_PRP _VBD _WP _DT _NN _VBD .
+_PRP _VBP _RB _JJ _IN _DT _NN .
+_PRP$ _NNS _VBP _VBN _RB .
+_PRP _VBD _NAME _NAME .
+_PRP _VB _VBN _NNS .
+_RB _PRP _VBD _NN .
+_PRP _VBP _DT _NN _CC _DT _NN .
+_PRP _VBD _DT _NN _IN _NN .
+_PRP _MD _VB _VBN _DT _NN .
+_PRP _VB _VBN _RB _JJ _NNS .
+_NAME _VBD _DT _NN .
+_DT _VBZ _DT _NN .
+_NN _VBD _IN _PRP _IN _NN .
+_PRP$ _JJ _NN _VBD _VBN _IN _NN .
+_PRP _VBZ _DT _JJ _NN .
+_NAME _VBD _RB _VBN .
+_PRP _MD _VB _JJ _RB .
+_DT _VBZ _DT _NN !
+_NAME _NNS _VBD _IN _DT _JJ _NN .
+_NAME _NAME _VBD _DT _NN _RB .
+_PRP _MD _RB _VB _PRP .
+_PRP _VBD _DT _NN .
+_DT _NN _VBD _RB _RB .
+_PRP _VBD _IN _PRP$ _NN _IN _NN .
+_PRP _MD _VB _PRP _IN _NAME .
+_DT _NN _TO _VB _NNS .
+_DT _NNS _VBD _IN _PRP _IN _JJ _NN .
+_PRP _VBD _RB _RB .
+_CC _RB _PRP _VBD _RB .
+_IN _DT _NN _IN _NAME .
+_WRB _VBZ _NAME _NAME ?
+_NAME _VBD _DT _JJ _NN .
+_PRP _VBD _DT _JJ _NN .
+_NAME _VBD _RB _IN _PRP$ _NN .
+_DT _NN _VBD _IN _NN .
+_PRP _VB _VBN _IN _NN .
+_PRP _MD _VB _PRP .
+_PRP _VBP _RB _JJ .
+_PRP _VBD _PRP$ _NN _IN _PRP$ _NN .
+_PRP _VBD _RB _VBN _DT _NN .
+_PRP _VBD _IN _DT _NN .
+_CC _PRP _VBD _IN _DT _NN .
+_CC _WRB _VBD _PRP _VB _IN ?
+_CC _PRP _VBD _JJ _RB .
+_NNP _VBD _TO _VB _RB .
+_NAME , _PRP _VBP _IN _PRP .
+_PRP _VBD _TO _VB _PRP _RP .
+_PRP _VBD _IN _DT _NN .
+_EX _VBD _DT _NNS _RB _RB .
+_VB _RB _VB _PRP .
+_DT _NN _VBD _RP .
+_DT _NNS _IN _NN .
+_PRP _VBP _TO _VB _RB _IN _DT _NN .
+_NAME _VBD _VBG _RB _JJ .
+_CC _NAME _VBD _RB .
+_PRP _VBD _IN _DT _NN .
+_DT _NN _VBD _RB _IN _PRP .
+_CC _PRP _VBD _RB _JJ .
+_RB _VB , _NN .
+_PRP _VB _VBN _NN .
+_PRP _VBD _PRP$ _NN _IN _NAME .
+_PRP _VBD _JJ , _NAME _NAME .
+_PRP _VBD _DT _NNS !
+_PRP _MD _VB _TO _VB _PRP _RB .
+_DT _NN _IN _DT _NN _VBD .
+_PRP _VBD _RB _VBN .
+_EX _VBD _DT _NN _IN _DT _NN _NN .
+_PRP _VBZ _RB _RB _RB .
+_PRP _RB _VBD _TO _VB _PRP$ _NN .
+_CC _PRP _VBD _VBG .
+_NAME _VBD _DT _NN .
+_EX _VBD _DT _NN _NN .
+_NAME _RB _VBD _IN _DT _NN .
+_RB _IN _NAME _NAME .
+_PRP _VBD _IN _NN _CC _NN .
+_RB _PRP _VBD _RB _VBG _DT _NN .
+_PRP _VBZ _DT _JJS _NN _IN _DT _NN .
+_PRP _VBD _NAME _DT _NN _NN .
+_DT _VBD _DT _NN .
+_NAME _VBD _RB _VB _PRP$ _NN .
+_PRP _VBD _DT _JJ _NN _IN _DT _NN .
+_PRP _VBP _JJ _PRP _VBP _RB .
+_CC _PRP _VBD _VBG .
+_PRP _VBD _PRP _RP _CC _VBD _IN _PRP .
+_NAME _VBD _PRP$ _NN _RB .
+_DT _JJ _NN _VBD _VBN .
+_NAME _VBD _JJ _IN _DT _NN .
+_NAME _VBD _VBN _DT _NN .
+_PRP _VBD _PRP _IN _NAME .
+_NAME _VBD _PRP$ _NN .
+_DT _NN _POS _JJ _NN _VBD .
+_PRP _VBZ _JJ _CC _RB _JJ .
