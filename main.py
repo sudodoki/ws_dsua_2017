@@ -24,7 +24,7 @@ import copy
 from aiohttp import web
 from urllib.parse import parse_qsl, urlparse
 from six.moves import xrange  # pylint: disable=redefined-builtin
-from spacy.en import English
+import spacy
 
 tf.app.flags.DEFINE_float("learning_rate", 0.5, "Learning rate.")
 tf.app.flags.DEFINE_float("learning_rate_decay_factor", 0.99,
@@ -71,7 +71,7 @@ config = tf.ConfigProto(allow_soft_placement=True)
 # See seq2seq_model.Seq2SeqModel for details of how they work.
 _buckets = [(6, 6), (7, 7), (8, 8), (10, 10)]
 
-nlp = English()
+nlp = spacy.load('en')
 
 
 def read_data(source_path, target_path, max_size=None):

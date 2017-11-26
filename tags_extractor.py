@@ -1,11 +1,11 @@
 import sys
-from spacy.en import English
+import spacy
 
 
 def extract():
     input_file = sys.stdin
     output_file = sys.stdout
-    nlp = English()
+    nlp = spacy.load('en')
     for line in input_file:
         doc = nlp(line.strip())
         result = []

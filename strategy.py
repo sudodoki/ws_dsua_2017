@@ -3,13 +3,13 @@ import codecs
 import re
 import nltk
 import random
-from spacy.en import English
+import spacy
 from nltk.corpus import wordnet as wn
 from itertools import chain
 
 
 def run(data_path):
-    nlp = English()
+    nlp = spacy.load('en')
     input_file = codecs.open(data_path, encoding='utf-8', mode='r')
     output_file1 = codecs.open('input.txt', encoding='utf-8', mode='w')
     output_file2 = codecs.open('output.txt', encoding='utf-8', mode='w')
